@@ -104,6 +104,8 @@ A curated collection of awesome LLM apps built with RAG and AI agents. This repo
 - [🌍 Web Scraping AI Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_tools_frameworks/web_scrapping_ai_agent)
 - [🔍 Web Search AI Assistant](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_tools_frameworks/web_search_ai_assistant)
 - [🧪 Cursor AI Experiments](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_tools_frameworks/cursor_ai_experiments)
+- [🔍 toprank — SEO & Google Ads Plugin for Claude Code](https://github.com/nowork-studio/toprank)
+
 
 ## 🚀 Getting Started
 
